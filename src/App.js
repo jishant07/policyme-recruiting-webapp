@@ -12,7 +12,7 @@ function App() {
       </header>
       <section className="App-section">
         <div>
-          Value:
+          Value: INIT
           {num}
           <button>+</button>
           <button>-</button>
