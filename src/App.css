@@ -44,3 +44,17 @@
     transform: rotate(360deg);
   }
 }
+
+.pointer{
+  cursor: pointer;
+}
+
+.character-sheet{
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(255,255,255,1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(255,255,255,1);
+  box-shadow: 10px 10px 5px 0px rgba(255,255,255,1);
+  border-radius: 10px;
+  border: 2px solid red;
+  margin: 50px;
+  flex-direction: column;
+}
